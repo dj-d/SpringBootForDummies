@@ -1,0 +1,10 @@
+### Java ###
+**/target/
+.mvn
+HELP.md
+
+### IntelliJ IDEA ###
+.idea
+
+### VS Code ###
+.vscode/
