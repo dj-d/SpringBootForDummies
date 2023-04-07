@@ -88,3 +88,7 @@ curl -X DELETE http://localhost:3000/api/v1/sandwiches/{name}
 ### Videos
 - [What is an API Rest?](https://www.youtube.com/watch?v=-mN3VyJuCjM&pp=ugMICgJpdBABGAE%3D)
 - [Rest vs RPC vs GraphQL API](https://www.youtube.com/watch?v=hkXzsB8D_mo&pp=ugMICgJpdBABGAE%3D)
+
+# Disclaimer
+
+**This project is not intended to be used in production. It is only a didactic project. It lacks many accouterments but is a good start**
